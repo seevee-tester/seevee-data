@@ -1,1 +1,15 @@
-{}
+{
+    "firstname": "Privatni",
+    "lastname": "Tigar",
+    "company": "comSysto",
+    "contact": {
+        "landline": "N/A",
+        "mobile": "+38598473160",
+        "email": "obi_g8@yahoo.com",
+        "address": {
+            "street": "Slavonska 19, Gradići",
+            "postalcode": "10410",
+            "city": "Velika Gorica"
+        }
+    }
+}
