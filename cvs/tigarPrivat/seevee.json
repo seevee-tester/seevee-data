@@ -1,6 +1,7 @@
 {
     "firstname": "Privatni",
     "lastname": "Tigar",
+    "jobtitle": "tp",
     "company": "comSysto",
     "contact": {
         "landline": "N/A",
@@ -11,5 +12,22 @@
             "postalcode": "10410",
             "city": "Velika Gorica"
         }
-    }
+    },
+    "qualification": "tp",
+    "qualificationalinstitution": "tp",
+    "languages": [],
+    "certifications": [],
+    "topskills": [],
+    "aboutme": [],
+    "experience": [],
+    "methodicalskills": [],
+    "industryskills": [],
+    "itskills": [],
+    "projecthistory": [],
+    "template": {
+        "id": "seevee",
+        "logo": "logo",
+        "url": "https://www.seevee.io"
+    },
+    "locale": "de"
 }
